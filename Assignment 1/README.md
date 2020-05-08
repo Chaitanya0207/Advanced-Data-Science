@@ -1,8 +1,10 @@
 ****************************************************************************************************************************************
 
-## Assignment 2:
+## Assignment 1:
 
-## Objective - The main aim is to perform EDA and implement linear regression, decrease the complexity of the model or overfitting by performing ridge regularization, implementing random forest regression, Gradient boosting regression and to determine the best models using step wise regression, multi-colinearity and hyperparameter tuning using MSE, RMSE and R squared as the evaluation metrics.
+## Objective - 
+
+The main aim is to perform EDA and implement linear regression, decrease the complexity of the model or overfitting by performing ridge regularization, implementing random forest regression, Gradient boosting regression and to determine the best models using step wise regression, multi-colinearity and hyperparameter tuning using MSE, RMSE and R squared as the evaluation metrics.
 
 ## Dataset - 
 
